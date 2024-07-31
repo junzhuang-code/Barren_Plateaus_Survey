@@ -13,7 +13,7 @@ Welcome contributions! Please don't hesitate to reach out if:
 * your work fits within our scope
 * you have any suggestions
 
-TODO: an online form for information collection.
+You can contribute by filling out the [Google form](https://forms.gle/Z9cxdwWd7AcTCusbA).
 
 ## Changelog
 TODO: a changelog of all notable changes.
