@@ -16,7 +16,7 @@ Welcome contributions! Please don't hesitate to reach out if:
 You can contribute by filling out the [Google form](https://forms.gle/Z9cxdwWd7AcTCusbA).
 
 ## Changelog
-TODO: a changelog of all notable changes.
+All notable changes are documented in the [changelog](https://github.com/junzhuang-code/Barren_Plateaus_Survey/blob/main/Changelog.md).
 
 ## Reference
 ```bibtex
